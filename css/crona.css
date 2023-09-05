@@ -141,17 +141,11 @@ h3 {
   align-items: center;
   vertical-align: middle;
   text-align: center;
-
-
 }
 
 .last-news span {
   font-size: 14px;
   min-width: 120px;
-  font-weight: 700;
-
-
-
 }
 
 .last-news .sliding {
@@ -211,12 +205,9 @@ h3 {
   justify-content: center;
   align-items: center;
   text-align: center;
-
-
 }
 
-.menu-sticky.sticky {
-  
+.menu-sticky.sticky {  
   background: #ffffff;
   position: fixed;
   top: 0px;
@@ -253,7 +244,6 @@ h3 {
   color: white;
 }
 .button-top-help:hover {
- 
   color: white;
 }
 .button-top {
@@ -301,6 +291,10 @@ h3 {
   font-weight: 700;
   text-decoration: none;
   color: white;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .button-main-help:hover {
@@ -404,7 +398,6 @@ color: white;
   text-decoration: none;
 }
 .buttons-help:hover {
- 
   color: white;
 }
 
@@ -421,8 +414,6 @@ color: white;
   justify-content: center;
   align-items: center;
   position: relative;
-  
-
 }
 
 .buttons::before {
@@ -659,6 +650,7 @@ div .second-span {
 .index-corona{
 z-index: 4;
 }
+
 .video i {
   display: flex;
   justify-content: center;
@@ -767,12 +759,15 @@ z-index: 4;
   border-radius: 50%;
   width: 70px;
   height: 70px;
+ z-index: 4;
 }
 
 .frist-countr img {
   margin: 10px;
 }
-
+.shiva .count{
+  z-index: 999;
+}
 .countr1-text .count {
   margin-left: 10px;
   color: #ff500b;
