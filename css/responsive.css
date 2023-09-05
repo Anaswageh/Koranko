@@ -280,6 +280,12 @@
         top: -33px;
         left: 0px;
     }
+    .frist-input input {
+      font-size: 12px;
+      font-weight: 300;
+      
+    
+    }
 }
 @media  (max-width:494px) {
     .covid-heading h1 {
