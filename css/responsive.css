@@ -25,8 +25,7 @@
 }
 @media (min-width:992px) and (max-width:1340px) {
     
-    .virus-shape .virus3{
-        
+    .virus-shape .virus3{       
         width: 100px;
         height: 100px;
     }
@@ -52,9 +51,7 @@
         font-size: 10px;
         font-weight: 200;
         width: 100%; 
-    
     } 
-
 }  
 @media (min-width:990px) and (max-width:1200px){
     .navbar-nav .nav-link{
@@ -196,9 +193,7 @@
        
          } 
 }
-@media  (max-width:991px) {
-    
-    
+@media  (max-width:991px) { 
     .button-top {
         display: none;
     }
@@ -235,9 +230,7 @@
         font-size: 10px;
         
         font-weight: 500;
-      }
-       
-     
+      }     
       .virus-shape .virus3{ 
         width: 120px;
         height: 120px;
@@ -271,9 +264,7 @@
     }
     .last-side{
         padding-top: 50px;
-    }
-    
-    
+    }  
 }
 @media  (max-width:520px) {
     
@@ -286,10 +277,9 @@
     .virus-shape .virus4 {
         width: 100px;
         height: 100px;
-        top: 30px;
-        left: 80px;
+        top: -33px;
+        left: 0px;
     }
-
 }
 @media  (max-width:494px) {
     .covid-heading h1 {
@@ -304,19 +294,15 @@
       .sms-icon i{
        
       font-size: 30px;
-      bottom: 30px;
-      
-     
-     }
-     
-      
+      bottom: 30px;     
+     }    
 }
  @media  (max-width:426px) {
         .covid-heading h1 {
             margin-top: 20px;
             font-size: 55px
           }
-          .button-main-help {
+       .button-main-help {
             z-index: 9;
             font-weight: 700;
             text-decoration: none;
@@ -332,7 +318,7 @@
             background-color: var(--blue-color);
             border: none;
             border-radius: 3px;
-            width: 170px;
+            width: 100%;
             height: 60px;
             text-decoration: none;
             display: flex;
@@ -345,7 +331,7 @@
             background-color: var(--red-color);
             border: none;
             border-radius: 3px;
-            width: 137px;
+            width: 100%;
             height: 60px;
             display: flex;
             justify-content: center;
