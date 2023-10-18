@@ -286,6 +286,30 @@
       
     
     }
+    .countr1-text h5 {
+      margin-left: 15px;
+      color: white;
+      font-size: 6px;
+      font-weight: 500;
+    }
+    .countr2-text h3 {
+      margin-left: 15px;
+      color: white;
+      font-size: 6px;
+      font-weight: 500;
+    }
+    .countr3-text h3 {
+      margin-left: 15px;
+      color: white;
+      font-size: 6px;
+      font-weight: 500;
+    }
+    .countr4-text h3 {
+      margin-left: 15px;
+      color: white;
+      font-size: 6px;
+      font-weight: 500;
+    }
 }
 @media  (max-width:494px) {
     .covid-heading h1 {
